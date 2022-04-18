@@ -1,6 +1,8 @@
 
-PicoRV32 - A Size-Optimized RISC-V CPU
+PicoRV32 IceSugar-Nano - A Size-Optimized RISC-V CPU for the IceSugar-Nano
 ======================================
+
+THIS IS A FORK OF https://github.com/YosysHQ/picorv32
 
 PicoRV32 is a CPU core that implements the [RISC-V RV32IMC Instruction Set](http://riscv.org/).
 It can be configured as RV32E, RV32I, RV32IC, RV32IM, or RV32IMC core, and optionally
